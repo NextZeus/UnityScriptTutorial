@@ -109,6 +109,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\ButtonScriptEditor.cs" />
+    <Compile Include="Assets\Scripts\ClockAnimator.cs" />
     <Compile Include="Assets\Scripts\Level.cs" />
     <Compile Include="Assets\Scripts\LevelEditor.cs" />
     <Compile Include="Assets\Scripts\SomeScript.cs" />

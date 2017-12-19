@@ -88,8 +88,13 @@
 -define:ENABLE_NATIVE_ARRAY_CHECKS
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
+'Assets/Scripts/ButtonScript.cs'
+'Assets/Scripts/ButtonScriptEditor.cs'
+'Assets/Scripts/ClockAnimator.cs'
 'Assets/Scripts/Level.cs'
 'Assets/Scripts/LevelEditor.cs'
+'Assets/Scripts/SomeScript.cs'
+'Assets/Scripts/SomeScriptEditor.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/UnityScript.dll'

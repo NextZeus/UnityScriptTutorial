@@ -89,6 +89,8 @@
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
 'Assets/Scripts/ButtonScript.cs'
+'Assets/Scripts/ButtonScriptEditor.cs'
+'Assets/Scripts/ClockAnimator.cs'
 'Assets/Scripts/Level.cs'
 'Assets/Scripts/LevelEditor.cs'
 'Assets/Scripts/SomeScript.cs'
